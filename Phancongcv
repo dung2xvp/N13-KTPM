@@ -1,0 +1,64 @@
+# 📌 Phân công công việc dự án
+
+## 1. Giới thiệu
+
+Tài liệu này mô tả việc phân công nhiệm vụ cho các thành viên trong nhóm phát triển dự án. Mục tiêu là giúp mỗi thành viên nắm rõ trách nhiệm và phạm vi công việc của mình, từ đó đảm bảo tiến độ và hiệu quả triển khai.
+
+---
+
+## 2. Phân công công việc
+
+Dưới đây là các chức năng chính của hệ thống cùng với người phụ trách tương ứng:
+
+### 🛒 Chức năng Đặt mua (Purchase Function)
+
+* **Người phụ trách:** Đỗ Hữu Tưởng
+* **Mô tả:**
+  Phát triển và quản lý toàn bộ quy trình đặt hàng, bao gồm:
+
+  * Xác nhận đơn hàng
+  * Xử lý thanh toán
+  * Các bước liên quan đến hoàn tất giao dịch
+
+---
+
+### 📦 Bảo trì Danh mục (Catalog Maintenance)
+
+* **Người phụ trách:** Nguyễn Mạnh Dũng
+* **Mô tả:**
+  Quản lý danh mục sản phẩm:
+
+  * Thêm / sửa / xóa sản phẩm
+  * Cập nhật thông tin sản phẩm
+  * Đảm bảo dữ liệu luôn chính xác và đầy đủ
+
+---
+
+### 👤 Đăng ký (Registration)
+
+* **Người phụ trách:** Đào Thanh Phong
+* **Mô tả:**
+  Phát triển chức năng đăng ký người dùng:
+
+  * Tạo tài khoản mới
+  * Xác thực thông tin
+  * Quản lý dữ liệu người dùng cơ bản
+
+---
+
+### 🛍️ Quản lý Giỏ hàng (Shopping Cart Management)
+
+* **Người phụ trách:** Trần Văn Khoa
+* **Mô tả:**
+  Xây dựng và duy trì chức năng giỏ hàng:
+
+  * Thêm / xóa sản phẩm
+  * Cập nhật số lượng
+  * Tính toán tổng giá trị đơn hàng
+
+---
+
+## 📎 Ghi chú
+
+* Mỗi thành viên chịu trách nhiệm chính cho module của mình và phối hợp với các thành viên khác khi cần tích hợp hệ thống.
+* Cần đảm bảo code rõ ràng, dễ bảo trì và tuân theo quy chuẩn chung của dự án.
